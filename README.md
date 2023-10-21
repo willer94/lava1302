@@ -80,7 +80,7 @@ basic functions for visualization
 a simple demo to show 2D landmarks and wireframes given an input image
 
 
-If this project helps you, please cite our paper.
+If this project helps you, please cite our papers.
 
 ```
 @article{Wang2022RevisitingMS,
