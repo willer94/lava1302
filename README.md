@@ -17,6 +17,7 @@
 ```
 ## 2 data description
 
+The following data can be downloaded at https://drive.google.com/drive/folders/1WVr-6mEQii9nR6J4Exs31q22q3BqNybN?usp=share_link
 ### 2.1 csv_files
 submission files
 ```
